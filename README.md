@@ -10,7 +10,7 @@ Aplicativo em React Native com Expo que exibe cards com indicadores pessoais.
 ## Como rodar
 
 ```bash
-cd MinhaSaudeHojeApp
+cd /MinhaSaudeHojeApp/
 npm install
 npx expo start
 ```
